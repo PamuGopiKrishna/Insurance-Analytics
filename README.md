@@ -22,4 +22,12 @@ This project analyzes insurance claims and policyholder data to identify risk pa
 - Policy type vs claim amount
 
 ## 📸 Dashboard Screenshots
-(Add screenshots here later)
+
+### Power BI Dashboard
+[Power BI](images/Power Bi-dashboard.png)
+
+### Excel Dashboard
+[Excel](images/Excel-dashboard.png)
+
+### Tableau Dashboard
+[Tableau](images/Tableau-dashboard.png)
