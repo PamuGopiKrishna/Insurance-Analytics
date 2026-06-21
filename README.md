@@ -27,7 +27,7 @@ This project analyzes insurance claims and policyholder data to identify risk pa
 [Power BI](images/Power Bi-dashboard.png)
 
 ### Excel Dashboard
-Images/Excel-Dashboard.png
+[Excel].(Images/Excel-Dashboard.png)
 
 ### Tableau Dashboard
 [Tableau](images/Tableau-dashboard.png)
