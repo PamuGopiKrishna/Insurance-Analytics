@@ -134,4 +134,4 @@ This project was developed as part of the:
 **Gopi Krishna Pamu**
 - 📧 pamugopikrishna2003@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/pamu-gopi-krishna)
-- 🌐 [Portfolio]()
+- 🌐 [Portfolio](https://portfolio-gopi-krishna.vercel.app)
